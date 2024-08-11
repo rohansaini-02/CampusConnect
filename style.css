@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.main{
+    height: 100px;
+    width:fit-content;
+    background-color:red;
+ }
+
+ul li{
+    list-style: none;
+    display:  inline;
+    text-align: left;
+}
+ 
