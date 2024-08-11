@@ -2,10 +2,15 @@ body{
     margin: 0;
 }
 
+h6{
+    text-align:start;
+}
+
 .main{
-    height: 100px;
+    height: 95px;
     width:fit-content;
-    background-color:red;
+    background-color:hwb(0 0% 100%);
+    
  }
 
 ul li{
@@ -14,3 +19,11 @@ ul li{
     text-align: left;
 }
  
+img{
+    height: 30px;
+    width: 30px;
+}
+
+.links{
+    text-align: left;
+}
